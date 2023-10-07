@@ -1,4 +1,6 @@
 # Photo Fiesta Application
+![photofiesta copy](https://github.com/rickstylz01/photomanagementapp/assets/27748809/096fb6ea-fc54-4680-b28a-1875b3e6d879)
+
 
 ## Project Description
 Photo Fiesta is a monolithic backend developed using Spring Boot that provides a RESTful API which allows users to upload photos and organize them into albums. Users can register and login to take advantage of the photo management system. Having security in mind, we implemented JSON Web Token to properly identify and secure each user account. 
